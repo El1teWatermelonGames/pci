@@ -1,0 +1,14 @@
+LICENSE.txt
+README.md
+setup.cfg
+setup.py
+src/pci/__init__.py
+src/pci/__main__.py
+src/pci.egg-info/PKG-INFO
+src/pci.egg-info/SOURCES.txt
+src/pci.egg-info/dependency_links.txt
+src/pci.egg-info/entry_points.txt
+src/pci.egg-info/requires.txt
+src/pci.egg-info/top_level.txt
+src/pci/rem/__init__.py
+src/pci/rem/rem.py
