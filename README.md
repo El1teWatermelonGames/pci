@@ -21,6 +21,7 @@ $ git clone https://github.com/El1teWatermelonGames/pci.git
 $ cd pci
 $ python setup.py install
 ```
+*In linux you may need to type `python3` instead of `python`*
 
 Then to run PCI, run the following in your terminal
 
