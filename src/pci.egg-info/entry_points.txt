@@ -1,2 +1,0 @@
-[console_scripts]
-pci = pci.__main__:main
